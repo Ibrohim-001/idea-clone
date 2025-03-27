@@ -1,0 +1,28 @@
+{
+    "products": [
+        { "id": "1", "name": "GOOGLE PIXEL 0.1", "price": "1500000", "brand": "SAMSUNG", 
+        "image": [
+            "https://cdn.dxomark.com/wp-content/uploads/medias/post-176677/Google-Pixel-9-Pro-XL_featured-image-packshot-review-1024x691.png",
+            "https://lh3.googleusercontent.com/iDX_dCDAJGRiXqcityjN-gBNsd61CjS8DIfXohH30T2jmliG7ofzJiNRUY3TwEQAyTk5x2a--Jvk7smckEWckCTcMkFPEjSkKaA=s0",
+            "https://amateurphotographer.com/wp-content/uploads/sites/7/2024/08/google-pixel-9-pro-XL-in-hand-3-photo-JW-AP-IMG_20240107_120223.jpg?w=900",
+            "https://hips.hearstapps.com/hmg-prod/images/google-pixel-9-review-lead-66c8a74805258.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=640:*"
+        ] 
+        },
+        { "id": "2", "name": "GOOGLE PIXEL 0.2", "price": "2500000", "brand": "GOOGLE PIXEL 1", "image": [
+            "https://cdn.dxomark.com/wp-content/uploads/medias/post-176677/Google-Pixel-9-Pro-XL_featured-image-packshot-review-1024x691.png",
+            "https://lh3.googleusercontent.com/iDX_dCDAJGRiXqcityjN-gBNsd61CjS8DIfXohH30T2jmliG7ofzJiNRUY3TwEQAyTk5x2a--Jvk7smckEWckCTcMkFPEjSkKaA=s0"
+        ] },
+        { "id": "3", "name": "GOOGLE PIXEL 2", "price": "3500000", "brand": "GOOGLE PIXEL 2", "image": [
+            "https://cdn.dxomark.com/wp-content/uploads/medias/post-176677/Google-Pixel-9-Pro-XL_featured-image-packshot-review-1024x691.png",
+            "https://lh3.googleusercontent.com/iDX_dCDAJGRiXqcityjN-gBNsd61CjS8DIfXohH30T2jmliG7ofzJiNRUY3TwEQAyTk5x2a--Jvk7smckEWckCTcMkFPEjSkKaA=s0"
+        ] },
+        { "id": "4", "name": "GOOGLE PIXEL 8", "price": "4500000", "brand": "GOOGLE PIXEL 8", "image": [
+            "https://cdn.dxomark.com/wp-content/uploads/medias/post-176677/Google-Pixel-9-Pro-XL_featured-image-packshot-review-1024x691.png",
+            "https://lh3.googleusercontent.com/iDX_dCDAJGRiXqcityjN-gBNsd61CjS8DIfXohH30T2jmliG7ofzJiNRUY3TwEQAyTk5x2a--Jvk7smckEWckCTcMkFPEjSkKaA=s0"
+        ] },
+        { "id": "5", "name": "GOOGLE PIXEL 9", "price": "5500000", "brand": "GOOGLE PIXEL 9 ", "image": [
+            "https://cdn.dxomark.com/wp-content/uploads/medias/post-176677/Google-Pixel-9-Pro-XL_featured-image-packshot-review-1024x691.png",
+            "https://lh3.googleusercontent.com/iDX_dCDAJGRiXqcityjN-gBNsd61CjS8DIfXohH30T2jmliG7ofzJiNRUY3TwEQAyTk5x2a--Jvk7smckEWckCTcMkFPEjSkKaA=s0"
+        ]}
+    ]
+}
